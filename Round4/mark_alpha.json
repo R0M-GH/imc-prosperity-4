@@ -1,0 +1,28 @@
+{
+  "VELVETFRUIT_EXTRACT": {
+    "Mark 22": {
+      "SELL": {
+        "alpha_1k": -1.559,
+        "alpha_5k": -1.871,
+        "n": 101,
+        "decay_ratio": 1.2
+      }
+    },
+    "Mark 49": {
+      "SELL": {
+        "alpha_1k": -2.143,
+        "alpha_5k": -1.986,
+        "n": 105,
+        "decay_ratio": 0.927
+      }
+    },
+    "Mark 67": {
+      "BUY": {
+        "alpha_1k": 2.242,
+        "alpha_5k": 1.918,
+        "n": 165,
+        "decay_ratio": 0.855
+      }
+    }
+  }
+}
