@@ -1,0 +1,16 @@
+research_pct,scale_pct,speed_pct,research_forecast,scale_forecast,notes
+100,0,0,"200,000",0,corner
+0,100,0,0,7,corner
+0,0,100,0,0,corner
+50,50,0,"170,389",3.5,edge
+50,0,50,"170,389",0,edge
+0,50,50,0,3.5,edge
+34,33,33,"154,074",2.3,center
+60,30,10,"178,148",2.1,interior
+50,30,20,"170,389",2.1,interior
+40,30,30,"160,931",2.1,interior
+70,20,10,"184,727",1.4,interior
+40,40,20,"160,931",2.8,interior
+30,50,20,"148,815",3.5,interior
+60,20,20,"178,148",1.4,interior
+50,40,10,"170,389",2.8,interior

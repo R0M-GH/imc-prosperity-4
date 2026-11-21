@@ -5,3 +5,4 @@ __pycache__/
 # IMC data: download from the competition
 Round*/ROUND_*/
 *.csv
+!Round2/InvestmentOptimizer/allocations.csv
